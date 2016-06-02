@@ -1,3 +1,4 @@
+
 # sandbox
 learning git
 
@@ -9,6 +10,9 @@ VM-Arguments:
 
 sandbox
 ==============
+
+Editiert auf GitHub.
+
 
 Template for a simple Vaadin application that only requires a Servlet 3.0 container to run.
 

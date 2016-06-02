@@ -1,0 +1,4 @@
+Hallo, ich bin tmp
+
+Diese Zeile ist nach dem "git add -A" geschrieben.
+

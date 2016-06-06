@@ -3,3 +3,6 @@ Hallo, ich bin tmp
 Diese Zeile ist nach dem "git add -A" geschrieben.
 
 Diese Zeile wurde vor dem Branch 'tmp_branch' geschrieben.
+
+Diese Zeile ist die letzte und wurde in tmpbranch geschrieben.
+

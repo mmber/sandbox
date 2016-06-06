@@ -6,7 +6,7 @@ Ich schreibe hier die Zeile von fb2 aus!!
 Ein merge-kommentar von Merten am Ende: Develop -> fb2 -> manuell:
 
 nun in develop
-
+nun in fb2
 zeile zwei in develop.
 
 zeile drei in develop

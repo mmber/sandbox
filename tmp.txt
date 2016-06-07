@@ -2,50 +2,5 @@ Hallo, ich bin tmp
 
 Erste Zeile von develop.
 Ich schreibe hier die Zeile von fb2 aus!!
-
------------
-neun in fb5
----------
-
-
-
-Ein merge-kommentar von Merten am Ende: Develop -> fb2 -> manuell:
-
-nun in develop
-nun in fb2
-zeile zwei in develop.
-
-zeile drei in develop
-
-zeile vier in develop
-zeile vier in tmp.txt
-
-zeile fünf in develop
-
-zeile fünf in fb2
-
------------
-zehn in develop
-------------
-
-
-zeile sechs in develop
-zeile sechs in fba2 // merged by merten
-
-zeile sieben aus develop
-zeile acht develop
-acht in fb5
-
-feature in fb5
-
-neun in develop
-
-zehn from fb5
-
-elf from fb5
-
-eins
-
-zwölf in develop
-zwei
+fb6
 

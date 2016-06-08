@@ -9,6 +9,7 @@ neun in fb5
 
 neue zeile
 noch eine neue zeile!
+eine neue zeile von eclipse aus!
 
 Ein merge-kommentar von Merten am Ende: Develop -> fb2 -> manuell:
 

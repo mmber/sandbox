@@ -8,6 +8,7 @@ neun in fb5
 ---------
 
 neue zeile
+noch eine neue zeile!
 
 Ein merge-kommentar von Merten am Ende: Develop -> fb2 -> manuell:
 

@@ -1,0 +1,57 @@
+Hallo, ich bin tmp
+Zeile zwei in develop nach fb6: fb6 und fb7
+Erste Zeile von develop.
+Ich schreibe hier die Zeile von fb2 aus!!
+
+-----------
+neun in fb5
+---------
+
+neue zeile
+noch eine neue zeile!
+eine neue zeile von eclipse aus!
+
+Ein merge-kommentar von Merten am Ende: Develop -> fb2 -> manuell:
+
+nun in develop
+nun in fb2
+zeile zwei in develop.
+
+zeile drei in develop
+
+zeile vier in develop
+zeile vier in tmp.txt
+
+zeile fünf in develop
+
+zeile fünf in fb2
+
+-----------
+zehn in develop
+------------
+
+
+zeile sechs in develop
+zeile sechs in fba2 // merged by merten
+
+zeile sieben aus develop
+zeile acht develop
+acht in fb5
+
+feature in fb5
+
+neun in develop
+
+zehn from fb5
+
+elf from fb5
+
+develop 1 develop 2
+
+zwölf in develop
+
+eine neue Zeile
+noch eine
+
+jetzt wird released!
+

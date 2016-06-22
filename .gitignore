@@ -1,2 +1,3 @@
-src/main/webapp/VAADIN/themes/mytheme/addons.scss
+/bin/
+/target/
 .project

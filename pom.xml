@@ -5,7 +5,7 @@
 	<groupId>de.healthag</groupId>
 	<artifactId>sandbox</artifactId>
 	<packaging>war</packaging>
-	<version>5.0</version>
+	<version>5.1-SNAPSHOT</version>
 	<name>sandbox</name>
 	<url> https://github.com/mmber/sandbox</url>
 	
@@ -125,30 +125,7 @@
 						WEB-INF/classes/VAADIN/widgetsets/WEB-INF/**</packagingExcludes>
 				</configuration>
 			</plugin>
-			<plugin>
-				<groupId>com.vaadin</groupId>
-				<artifactId>vaadin-maven-plugin</artifactId>
-				<version>${vaadin.plugin.version}</version>
-				<configuration>
-					<extraJvmArgs>-Xmx512M -Xss1024k</extraJvmArgs>
-					<webappDirectory>${basedir}/target/classes/VAADIN/widgetsets</webappDirectory>
-					<draftCompile>false</draftCompile>
-					<compileReport>false</compileReport>
-					<style>OBF</style>
-					<strict>true</strict>
-				</configuration>
-				<executions>
-					<execution>
-						<goals>
-							<goal>update-theme</goal>
-							<goal>update-widgetset</goal>
-							<goal>compile</goal>
-							<!-- Comment out compile-theme goal to use on-the-fly theme compilation -->
-							<goal>compile-theme</goal>
-						</goals>
-					</execution>
-				</executions>
-			</plugin>
+			
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-source-plugin</artifactId>
